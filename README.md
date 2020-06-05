@@ -10,4 +10,4 @@ Node
 React
 Expo Mobile
 
-![Alt text]nlw.png "Meu projeto")
+![alt text](https://github.com/Denilsonjpf/nextlevelweek/blob/master/nlw.png?raw=true)
